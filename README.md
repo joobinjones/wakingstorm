@@ -5,7 +5,7 @@ In my freetime, I enjoy playing video games, reading, exercising, tinkering with
 
 ### Quick trivia about me:
 - 🔭 I’m currently working on building a back-end API and database for my [Flashcard-O-Matic](https://github.com/austinhjones3/flashcard-app) React.js app.
-- 👯 I’m looking to collaborate on projects that are heavily focused on either React.js|CSS3|SASS or PostgreSQL/Knex management.
+- 👯 I’m looking to collaborate on projects that are heavily focused on either React.js | CSS3 | SASS or PostgreSQL/Knex management.
 - 🤔 I’m looking for help in understanding best practices for implementing user-based PostgreSQL schema.
 - 💬 I have a passion for problem-solving. Ask me about it!
 - 📫 How to reach me: [LinkedIn!](https://www.linkedin.com/in/austinhjones3) or visit my [Portfolio](https://austin@austinjones.io) and click the Email link in the Contact section.
