@@ -1,5 +1,5 @@
 ### Greetings from the Code Offices of Austin Henry Jones 👋
-😄 Pronouns: He/Him\n
+😄 Pronouns: He/Him<br>
 I am a full stack developer specializing in the PERN (PostgreSQL, Express, React, Node) stack.
 In my freetime, I enjoy playing video games, reading, exercising, tinkering with my Linux system, and spending time with my family. 
 
