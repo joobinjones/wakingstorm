@@ -1,16 +1,12 @@
-### Hi there 👋
+### Greetings from the Code Offices of Austin Henry Jones 👋
+😄 Pronouns: He/Him
+I am a full stack developer specializing in the PERN (PostgreSQL, Express, React, Node) stack.
+In my freetime, I enjoy playing video games, reading, exercising, tinkering with my Linux system, and spending time with my family. 
 
-<!--
-**austinhjones3/austinhjones3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Quick trivia about me:
+- 🔭 I’m currently working on building a back-end API and database for my [Flashcard-O-Matic](https://github.com/austinhjones3/flashcard-app) React.js app.
+- 👯 I’m looking to collaborate on projects that are heavily focused on either React.js|CSS3|SASS or PostgreSQL/Knex management.
+- 🤔 I’m looking for help in understanding best practices for implementing user-based PostgreSQL schema.
+- 💬 I have a passion for problem-solving. Ask me about it!
+- 📫 How to reach me: [LinkedIn!](www.linkedin.com/in/austinhjones3) or [Email](austin@austinjones.io)
+- ⚡ Fun fact: I am just as likely to listen to pop on any given day as I am hip-hop, metal, or 80's music. I have a very broad taste for music.
