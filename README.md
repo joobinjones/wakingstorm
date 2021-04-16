@@ -10,3 +10,4 @@ In my freetime, I enjoy playing video games, reading, exercising, tinkering with
 - 💬 I have a passion for problem-solving. Ask me about it!
 - 📫 How to reach me: [LinkedIn!](https://www.linkedin.com/in/austinhjones3) or visit my [Portfolio](https://austin@austinjones.io) and click the Email link in the Contact section.
 - ⚡ Fun fact: I am just as likely to listen to pop on any given day as I am hip-hop, metal, or 80's music. I have a very broad taste for music.
+- 🤓 A nerdier fun fact: I have a hawkeye for syntax and logic errors. I find them very quickly.
