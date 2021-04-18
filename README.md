@@ -1,6 +1,6 @@
 ## Greetings from the Code Offices of Austin Henry Jones 👋
 😄 Pronouns: He/Him<br>
-I am a full stack developer specializing in the PERN/MERN stacks (PostgreSQL/MySQL/MongoDB, Express, React, Node) stack.
+I am a full stack developer specializing in the PERN/MERN (PostgreSQL/MySQL/MongoDB, Express, React, Node) stacks.
 In my freetime, I enjoy playing video games, reading, exercising, tinkering with my Linux system, and spending time with my family. 
 
 ## Quick trivia about me:
