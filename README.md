@@ -1,4 +1,4 @@
-## Greetings from the Code Offices of Austin Henry Jones 👋
+## Greetings from the Code Offices of Austin Jones 👋
 😄 Pronouns: He/Him<br>
 I am a Software Developer at Xima Software. I am competent in many different technologies and languages.
 Languages: Java, JavaScript, Dart, HTML, CSS, GraphQL, SQL/Postgres.
