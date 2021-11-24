@@ -1,8 +1,8 @@
 ## Greetings from the Code Offices of Austin Jones 👋
 😄 Pronouns: He/Him<br>
-I am a Software Developer at Xima Software. I am competent in many different technologies and languages.
-Languages: Java, JavaScript, Dart, HTML, CSS, GraphQL, SQL/Postgres.
-Technologies: TypeScript, React, Node, Express, SCSS, Flutter.
+I am a Software Engineer at Xima Software. I am competent in many different technologies and languages.
+Languages: Java, JavaScript, HTML, CSS, GraphQL, SQL/Postgres.
+Technologies: TypeScript, React, Node, Express, SCSS.
 
 - 🤔 Technologies that are on my learning radar include: Angular and Spring Boot. 
 - 📖 I'm currently learning TypeScript/general type systems.
