@@ -1,6 +1,6 @@
 ## Greetings from the Code Offices of Austin Jones 👋
 😄 Pronouns: He/Him<br>
-I am a Software Engineer at Xima Software. I thouroughly enjoy working on the frontend, but I am comfortable learning/working on the backend as well.<br/>
+I am a Software Engineer at Xima Software. I thoroughly enjoy working on the frontend, but I am comfortable learning/working on the backend as well.<br/>
 Languages/Patterns: JavaScript, Java, HTML, CSS, GraphQL, REST, SQL/Postgres.<br/>
 Technologies: TypeScript, Angular, React, Node, Express, SCSS.
 
