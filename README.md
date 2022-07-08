@@ -1,10 +1,6 @@
-## Greetings from the Code Offices of Austin Jones 👋
-😄 Pronouns: He/Him<br>
-I am a Software Engineer at Xima Software. I thoroughly enjoy working on the frontend, but I am comfortable learning/working on the backend as well.<br/>
-Languages/Patterns: JavaScript, Java, HTML, CSS, GraphQL, REST, SQL/Postgres.<br/>
-Technologies: TypeScript, Angular, React, Node, Express, SCSS.
+## Hey, I'm Austin Jones👋
 
-- 🤔 Technologies that are on my learning radar include: Spring Boot. 
-- 📖 I'm currently learning TypeScript, Angular, and Java.
+I'm a full-stack software engineer currently employed with Netchex, Inc. I am a Certified ScrumMaster, and I believe in the power of collaboration. I'm always looking for new ways to solve complex problems. I try my best to find a good balance between sustainable solutions and timely delivery. I believe in empowering and trusting people to do their best, and I seek the same from those managing me. Delivering the software isn't enough: engineers need to be happy and living a balanced life, the solutions need to be sustainable and well-tested, and the user experience needs to be more intuitive than the requirements say it should be ;)
+
 - 📫 How to reach me: [LinkedIn!](https://www.linkedin.com/in/austinhjones3) or visit my [Portfolio](https://austinjones.io) and click the Email link in the Contact section.
-- ⚡ Fun fact: I am just as likely to listen to pop on any given day as I am hip-hop, metal, or 80's music. I have a very broad taste for music.
+
